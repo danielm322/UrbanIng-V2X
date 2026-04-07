@@ -5,6 +5,9 @@ For simplicity, two separate environments are used: one for **scripts** and one 
 
 
 <p align="center">
+  <a href="https://thi-ad.github.io/urbaning/" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Page-purple?logo=github" alt="Project Page">
+  </a>
   <a href="https://pypi.org/project/urbaning/" target="_blank">
     <img src="https://img.shields.io/badge/PyPI-Package-blue?logo=pypi" alt="PyPI">
   </a>
